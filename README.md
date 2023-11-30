@@ -25,6 +25,9 @@ The top association rules are sorted and displayed to provide actionable insight
 
 Visualization: The results are visualized using various plots, including bar charts for frequent itemsets and a network plot for association rules.
 
+# Documentation/report
+https://medium.com/@chemistry8526/boosting-sales-with-data-the-power-of-market-basket-analysis-in-retail-c79cc10a14df
+
 
 
  # Installation
